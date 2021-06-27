@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ValidateISBNTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-06-26T21:24:48" hostname="DESKTOP-K5GN7LP" time="0.033">
+  <properties/>
+  <testcase name="givenInstance_whenValidateCalledOnValid10ISBN_returnTrue()" classname="ValidateISBNTest" time="0.019"/>
+  <testcase name="givenInstance_whenCheck10ISBNCalledOnHelloWorldString_throwCharException()" classname="ValidateISBNTest" time="0.005"/>
+  <testcase name="givenValidateISBM_whenCheck10ISBNCalledOnNineDigitString_throwNumberFormatException()" classname="ValidateISBNTest" time="0.001"/>
+  <testcase name="givenInstance_whenCheckISBNCalledOnValid13DigitISBN_returnTrue()" classname="ValidateISBNTest" time="0.0"/>
+  <testcase name="givenInstance_whenCheckISBNCalledOnInvalid13DigitISBN_returnFalse()" classname="ValidateISBNTest" time="0.001"/>
+  <testcase name="givenInstance_whenValidateCalledOnInvalid10ISBN_returnFalse()" classname="ValidateISBNTest" time="0.001"/>
+  <testcase name="givenInstance_whenCheck10ISBNCalledOnValidISBNEndingInX_returnTrue()" classname="ValidateISBNTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
