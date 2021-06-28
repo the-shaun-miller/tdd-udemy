@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StockManagementTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-28T03:47:49" hostname="DESKTOP-K5GN7LP" time="0.377">
+  <properties/>
+  <testcase name="webServiceIsUsedIfBookDataNotInDatabase()" classname="StockManagementTests" time="0.366"/>
+  <testcase name="canGetCorrectLocatorCode()" classname="StockManagementTests" time="0.007"/>
+  <testcase name="databaseIsUsedIfBookDataInDatabase()" classname="StockManagementTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

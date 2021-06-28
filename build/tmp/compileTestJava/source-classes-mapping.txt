@@ -1,2 +1,4 @@
 ValidateISBNTest.java
  ValidateISBNTest
+StockManagementTests.java
+ StockManagementTests

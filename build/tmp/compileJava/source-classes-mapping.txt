@@ -1,2 +1,8 @@
 com/validator/ValidateISBN.java
  com.validator.ValidateISBN
+com/validator/Book.java
+ com.validator.Book
+com/validator/ExternalISBNDataService.java
+ com.validator.ExternalISBNDataService
+com/validator/StockManager.java
+ com.validator.StockManager
